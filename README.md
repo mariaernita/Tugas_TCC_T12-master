@@ -32,9 +32,9 @@ services:
 </head>
 <body>
 <?php
-  echo "Nama    : Adi Primanto";
+  echo "Nama    : Maria Ernita Saba";
   echo "<br>";
-  echo "NIM     : 155410139";
+  echo "NIM     : 155410136";
   echo "<br>";
   echo "Jurusan : Teknik Informatika"
  ?>
@@ -52,10 +52,11 @@ docker-compose build kemudian jalankan perintah docker-compose up
 ## Lakukan pengujian dengan membuka pada browser dan ketik "localhost:8000/"
 ```Maka browser akan menampilkan hasil berupa```
 ```
-Nama : Adi Primanto
-NIM : 155410139
+Nama : Maria Ernita Saba
+NIM : 155410136
 Jurusan : Teknik Informatika
 ```
 
 ## Langkah terakhir adalah mengupload tugas docker compose ini ke GitHub
+https://github.com/mariaernita/Tugas_TCC_T12-master/
 ```Jika sudah berhasil di upload maka share link tugas ini ke email yang sudah diberikan :)```
